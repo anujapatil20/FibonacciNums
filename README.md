@@ -1,5 +1,5 @@
 # FibonacciNums
-python Program
+# python Program
 nums = int(input("How many nums? "))
 n1, n2 = 0, 1
 count = 0
